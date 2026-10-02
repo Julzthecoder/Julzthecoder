@@ -53,7 +53,7 @@ Machine learning project focused on identifying customers who are likely to chur
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
-[View Project →](./customer-churn-prediction)
+👉 [View Project](https://github.com/Julzthecoder/Bank-Customer-Churn-Prediction)
 
 ### 💳 Credit Risk Prediction
 
